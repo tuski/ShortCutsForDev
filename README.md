@@ -1,0 +1,3 @@
+# ShortCutsForDev
+
+tips for dev
