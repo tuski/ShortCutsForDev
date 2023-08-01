@@ -2,8 +2,8 @@
 - scp file.txt host:/destination
 - scp -r directory_name user_name@host:/destination
 
-Details about CPU and OS
-- lscpu
+- Details about CPU and OS
+  lscpu
 
 
 - Delete recursevely and forcefully 
@@ -18,3 +18,5 @@ $ ls -lh
 
 - Display all mounted storage
 $ df -h
+
+- Total file count $ ls | wc -l
