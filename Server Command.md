@@ -20,3 +20,6 @@ $ ls -lh
 $ df -h
 
 - Total file count $ ls | wc -l
+
+- file with custom date
+touch -t 202307021530.00 fileName
