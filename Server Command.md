@@ -23,3 +23,6 @@ $ df -h
 
 - file with custom date
 touch -t 202307021530.00 fileName
+
+- Change default java version (do it from your user account)
+  sudo /usr/sbin/alternatives --config java
